@@ -1,5 +1,5 @@
 import torch
-
+print("Hvor er daaaaataaaen?")
 
 def mnist():
     # exchange with the corrupted mnist dataset
